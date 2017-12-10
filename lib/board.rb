@@ -1,6 +1,6 @@
 # Define the variable board below.
 board = "Tic Tac Toe"
-board = ["row1", "row2", "row3"]
+board = [" ", " ", " ", " "," ", " "," ", " ", " "]
 row1 = [" ", " ", " "]
 row1[0]
 row1[1]
