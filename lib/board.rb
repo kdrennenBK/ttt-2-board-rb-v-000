@@ -1,9 +1,10 @@
 # Define the variable board below.
+TicTacToe = board
 board = ["row1", "row2", "row3"]
 row1 = [" ", " ", " "]
-row[0]
-row[1]
-row[2]
+row1[0]
+row1[1]
+row1[2]
 row2 = [" ", " ", " "]
 row2[0]
 row2[2]
